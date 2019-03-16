@@ -1,0 +1,12 @@
+{
+  "name": "tensorflowjs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "start": "node server.js",
+  "dependencies": {
+    "express": "latest"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
